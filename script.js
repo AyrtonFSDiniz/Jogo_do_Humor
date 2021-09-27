@@ -8,7 +8,7 @@ cor.addEventListener("mouseout", function () {
   cor.style.background = "";
 });
 
-var cont = 0;
+var cont = 1;
 var statushumor = [
   "Homer irritado por ter que sair da cama",
   "Homer pensativo",
